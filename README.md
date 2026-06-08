@@ -40,14 +40,13 @@ Coding Samurai - Java Development Internship
 ## 🎯 Internship Details
 - Company: Coding Samurai
 - Role: Java Development Intern
-- Duration: [Your duration]
 - Website: www.codingsamurai.in
 
 ---
 
 ## 📬 Connect With Me
-- LinkedIn: [Your LinkedIn profile link]
-- Email: [Your email]
+- LinkedIn: www.linkedin.com/in/bharani-p-
+- Email: kbharani668@gmail.com
 
 ---
 
