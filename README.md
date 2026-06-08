@@ -23,3 +23,32 @@
 
 ## Internship
 Coding Samurai - Java Development Internship
+
+
+
+### Demo Credentials
+**ATM System:**
+- Account: 1001 | PIN: 1234
+- Account: 1002 | PIN: 5678
+
+**Library System:**
+- Member ID: 101
+- Member ID: 102
+
+---
+
+## 🎯 Internship Details
+- Company: Coding Samurai
+- Role: Java Development Intern
+- Duration: [Your duration]
+- Website: www.codingsamurai.in
+
+---
+
+## 📬 Connect With Me
+- LinkedIn: [Your LinkedIn profile link]
+- Email: [Your email]
+
+---
+
+⭐ If you found this helpful, please star this repository!
